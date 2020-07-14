@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665079486781",
+    "firebase_url": "https://audioverify-7bb2a.firebaseio.com",
+    "project_id": "audioverify-7bb2a",
+    "storage_bucket": "audioverify-7bb2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665079486781:android:d4fc971e5b2746c1574d54",
+        "android_client_info": {
+          "package_name": "com.mardillu.audiverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665079486781-9k6hq1vm8g202rerev1osvdg9hv83ilr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlo0Jr_pGCAeGL0wtv-L4rVJ5-YK8rjsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665079486781-9k6hq1vm8g202rerev1osvdg9hv83ilr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
